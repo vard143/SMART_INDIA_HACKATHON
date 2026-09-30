@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/api/:match*",
+      "destination": "https://smart-india-hackathon-zkq9.onrender.com/api/:match*"
+    },
+    {
+      "source": "/offline/:match*",
+      "destination": "https://smart-india-hackathon-zkq9.onrender.com/offline/:match*"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

@@ -7,6 +7,23 @@
 > **Target Languages**: Ho (ᱦᱳ), Mundari (मुंडारी), Santhali (ᱥᱟᱱᱛᱟᱲᱤ with Ol Chiki), and Hindi  
 > **Target Framework**: NIPUN Bharat & Vidya Pravesh Foundational Literacy & Numeracy (FLN)  
 
+[![Live Web App](https://img.shields.io/badge/Live_Demo-Vercel-success?style=for-the-badge&logo=vercel)](https://smart-india-hackathon-two.vercel.app/)
+[![Backend API Docs](https://img.shields.io/badge/API_Docs-FastAPI_Swagger-blue?style=for-the-badge&logo=fastapi)](https://smart-india-hackathon-zkq9.onrender.com/docs)
+[![Backend Live](https://img.shields.io/badge/Backend-Render_Live-purple?style=for-the-badge&logo=render)](https://smart-india-hackathon-zkq9.onrender.com)
+[![Tests](https://img.shields.io/badge/Tests-71%2F71_Passed-brightgreen?style=for-the-badge&logo=pytest)](https://github.com/vard143/SMART_INDIA_HACKATHON)
+
+---
+
+## 🌐 Live Deployed Application & Endpoints
+
+| Resource | Direct Link | Description |
+| :--- | :--- | :--- |
+| 🚀 **Live Web App (PWA)** | **[https://smart-india-hackathon-two.vercel.app](https://smart-india-hackathon-two.vercel.app/)** | Interactive Voice Bridge, Worksheet Studio, Storybooks, PWA Offline Edge |
+| 📡 **Live Backend API (Swagger UI)** | **[https://smart-india-hackathon-zkq9.onrender.com/docs](https://smart-india-hackathon-zkq9.onrender.com/docs)** | Interactive Swagger UI for all FastAPI endpoints |
+| 📊 **Backend Health Endpoint** | **[https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health](https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health)** | Live diagnostics & database engine health check |
+| 📑 **Pitch Deck Presentation** | **[BhashaSetu FINAL .pptx](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu%20FINAL%20.pptx)** / **[ppt.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/ppt.pdf)** | Official SIH 2026 Presentation Slides |
+| 📄 **Master Project Document** | **[BhashaSetu_Full_Project_Documentation.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu_Full_Project_Documentation.pdf)** | Comprehensive SIH Documentation |
+
 ---
 
 ## 📖 Background & Problem Context
