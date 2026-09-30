@@ -23,7 +23,7 @@
 | 🎥 **Demo Video Walkthrough** | **[Watch on Google Drive](https://drive.google.com/file/d/1JjVhEh6lYnZJ74UlYACWa8R5tPNK_mQO/view?usp=sharing)** | Comprehensive 3-Minute Video Walkthrough & Features Demo |
 | 📡 **Live Backend API (Swagger UI)** | **[https://smart-india-hackathon-zkq9.onrender.com/docs](https://smart-india-hackathon-zkq9.onrender.com/docs)** | Interactive Swagger UI for all FastAPI endpoints |
 | 📊 **Backend Health Endpoint** | **[https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health](https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health)** | Live diagnostics & database engine health check |
-| 📑 **Pitch Deck Presentation** | **[BhashaSetu FINAL .pptx](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu%20FINAL%20.pptx)** / **[ppt.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/ppt.pdf)** | Official SIH 2026 Presentation Slides |
+| 📑 **Pitch Deck Presentation** | **[BhashaSetu.pptx](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu.pptx)** / **[ppt.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/ppt.pdf)** | Official SIH 2026 Presentation Slides |
 | 📄 **Master Project Document** | **[BhashaSetu_Full_Project_Documentation.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu_Full_Project_Documentation.pdf)** | Comprehensive SIH Documentation |
 
 ---
