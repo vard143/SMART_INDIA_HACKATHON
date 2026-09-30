@@ -8,6 +8,7 @@
 > **Target Framework**: NIPUN Bharat & Vidya Pravesh Foundational Literacy & Numeracy (FLN)  
 
 [![Live Web App](https://img.shields.io/badge/Live_Demo-Vercel-success?style=for-the-badge&logo=vercel)](https://smart-india-hackathon-two.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Watch_Now-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1JjVhEh6lYnZJ74UlYACWa8R5tPNK_mQO/view?usp=sharing)
 [![Backend API Docs](https://img.shields.io/badge/API_Docs-FastAPI_Swagger-blue?style=for-the-badge&logo=fastapi)](https://smart-india-hackathon-zkq9.onrender.com/docs)
 [![Backend Live](https://img.shields.io/badge/Backend-Render_Live-purple?style=for-the-badge&logo=render)](https://smart-india-hackathon-zkq9.onrender.com)
 [![Tests](https://img.shields.io/badge/Tests-71%2F71_Passed-brightgreen?style=for-the-badge&logo=pytest)](https://github.com/vard143/SMART_INDIA_HACKATHON)
@@ -19,6 +20,7 @@
 | Resource | Direct Link | Description |
 | :--- | :--- | :--- |
 | 🚀 **Live Web App (PWA)** | **[https://smart-india-hackathon-two.vercel.app](https://smart-india-hackathon-two.vercel.app/)** | Interactive Voice Bridge, Worksheet Studio, Storybooks, PWA Offline Edge |
+| 🎥 **Demo Video Walkthrough** | **[Watch on Google Drive](https://drive.google.com/file/d/1JjVhEh6lYnZJ74UlYACWa8R5tPNK_mQO/view?usp=sharing)** | Comprehensive 3-Minute Video Walkthrough & Features Demo |
 | 📡 **Live Backend API (Swagger UI)** | **[https://smart-india-hackathon-zkq9.onrender.com/docs](https://smart-india-hackathon-zkq9.onrender.com/docs)** | Interactive Swagger UI for all FastAPI endpoints |
 | 📊 **Backend Health Endpoint** | **[https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health](https://smart-india-hackathon-zkq9.onrender.com/api/v1/offline/health)** | Live diagnostics & database engine health check |
 | 📑 **Pitch Deck Presentation** | **[BhashaSetu FINAL .pptx](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/BhashaSetu%20FINAL%20.pptx)** / **[ppt.pdf](https://github.com/vard143/SMART_INDIA_HACKATHON/blob/main/ppt.pdf)** | Official SIH 2026 Presentation Slides |
