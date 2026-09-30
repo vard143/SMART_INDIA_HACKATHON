@@ -1,3 +1,8 @@
+### 🌐 Live Links
+- 🚀 **Live Web Application (Vercel)**: [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+- 📡 **Live API Docs (FastAPI / Swagger)**: [https://your-backend.onrender.com/docs](https://your-backend.onrender.com/docs)
+- 🎥 **Video Demo**: [Watch 3-Min Walkthrough on YouTube](YOUR_YOUTUBE_LINK)
+
 # BHASHASETU (भाषा सेतु (BhashaSetu) / ᱯᱟᱞᱟᱥ ᱵᱟᱬᱤ)
 ### AI-Powered Vernacular Pedagogy and Real-Time Translation Tool for Mother Tongue-Based Primary Education
 
