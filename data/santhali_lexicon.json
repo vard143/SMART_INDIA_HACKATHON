@@ -1,0 +1,1974 @@
+[
+  {
+    "hindi_term": "नमस्ते",
+    "synonyms": [
+      "प्रणाम",
+      "नमस्कार",
+      "जोहार",
+      "हेलो",
+      "हाय"
+    ],
+    "santhali_devanagari": "जोहार",
+    "santhali_ol_chiki": "ᱡᱚᱦᱟᱨ",
+    "santhali_romanized": "Johar",
+    "ipa_phonetics": "/dʒo.har/",
+    "category": "greeting",
+    "audio_phonemes": "johar",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सुप्रभात",
+    "synonyms": [
+      "शुभ प्रभात",
+      "गुड मॉर्निंग",
+      "सवेरा"
+    ],
+    "santhali_devanagari": "सगुन सेताः",
+    "santhali_ol_chiki": "ᱥᱟᱹᱜᱩᱱ ᱥᱮᱛᱟᱜ",
+    "santhali_romanized": "Sagun Setah",
+    "ipa_phonetics": "/sa.gun se.taʔ/",
+    "category": "greeting",
+    "audio_phonemes": "sagun setah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "शुभ दोपहर",
+    "synonyms": [
+      "दोपहर"
+    ],
+    "santhali_devanagari": "सगुन तिकिन",
+    "santhali_ol_chiki": "ᱥᱟᱹᱜᱩᱱ ᱛᱤᱠᱤᱱ",
+    "santhali_romanized": "Sagun Tikin",
+    "ipa_phonetics": "/sa.gun ti.kin/",
+    "category": "greeting",
+    "audio_phonemes": "sagun tikin",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "शुभ संध्या",
+    "synonyms": [
+      "शुभ शाम",
+      "शाम"
+    ],
+    "santhali_devanagari": "सगुन आयूब",
+    "santhali_ol_chiki": "ᱥᱟᱹᱜᱩᱱ ᱟᱹᱭᱩᱵ",
+    "santhali_romanized": "Sagun Ayub",
+    "ipa_phonetics": "/sa.gun a.yub/",
+    "category": "greeting",
+    "audio_phonemes": "sagun ayub",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "शुभ रात्रि",
+    "synonyms": [
+      "गुड नाईट"
+    ],
+    "santhali_devanagari": "सगुन ञिदा",
+    "santhali_ol_chiki": "ᱥᱟᱹᱜᱩᱱ ᱧᱤᱫᱟᱹ",
+    "santhali_romanized": "Sagun Nyida",
+    "ipa_phonetics": "/sa.gun ɲi.da/",
+    "category": "greeting",
+    "audio_phonemes": "sagun nyida",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "धन्यवाद",
+    "synonyms": [
+      "शुक्रिया",
+      "थैंक यू",
+      "आभार"
+    ],
+    "santhali_devanagari": "सारहाव",
+    "santhali_ol_chiki": "ᱥᱟᱨᱦᱟᱣ",
+    "santhali_romanized": "Sarhaw",
+    "ipa_phonetics": "/sar.haw/",
+    "category": "greeting",
+    "audio_phonemes": "sarhaw",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "स्वागत है",
+    "synonyms": [
+      "आपका स्वागत है",
+      "वेलकम"
+    ],
+    "santhali_devanagari": "आतांग दाराम",
+    "santhali_ol_chiki": "ᱟᱛᱟᱝ ᱫᱟᱨᱟᱢ",
+    "santhali_romanized": "Atang daram",
+    "ipa_phonetics": "/a.taŋ da.ram/",
+    "category": "greeting",
+    "audio_phonemes": "atang daram",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "आप कैसे हैं",
+    "synonyms": [
+      "कैसा है",
+      "कैसे हो",
+      "क्या हाल है"
+    ],
+    "santhali_devanagari": "चेद लेका मेनाः बीना",
+    "santhali_ol_chiki": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ ᱵᱤᱱᱟ",
+    "santhali_romanized": "Ched leka menah bina",
+    "ipa_phonetics": "/tʃed le.ka me.naʔ bi.na/",
+    "category": "greeting",
+    "audio_phonemes": "ched leka menah bina",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "मैं ठीक हूँ",
+    "synonyms": [
+      "सब ठीक है",
+      "बढ़िया हूँ"
+    ],
+    "santhali_devanagari": "इंज दो बेस गे मेनांज-आ",
+    "santhali_ol_chiki": "ᱤᱧ ᱫᱚ ᱵᱮᱥ ᱜᱮ ᱢᱮᱱᱟᱹᱧᱟ",
+    "santhali_romanized": "Inj do bes ge menanja",
+    "ipa_phonetics": "/iɲ do bes ge me.nan.dʒa/",
+    "category": "greeting",
+    "audio_phonemes": "inj do bes ge menanja",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "अलविदा",
+    "synonyms": [
+      "फिर मिलेंगे",
+      "बाय"
+    ],
+    "santhali_devanagari": "आरहो बोन ञापामा",
+    "santhali_ol_chiki": "ᱟᱨᱦᱚᱸ ᱵᱚᱱ ᱧᱟᱯᱟᱢᱟ",
+    "santhali_romanized": "Arho bon nyapama",
+    "ipa_phonetics": "/ar.hɔ bɔn ɲa.pa.ma/",
+    "category": "greeting",
+    "audio_phonemes": "arho bon nyapama",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "बैठ जाओ",
+    "synonyms": [
+      "बैठो",
+      "बैठ जाइए",
+      "बैठिए",
+      "बैठ"
+    ],
+    "santhali_devanagari": "दुड़ुब मे",
+    "santhali_ol_chiki": "ᱫᱩᱲᱩᱵ ᱢᱮ",
+    "santhali_romanized": "Durub me",
+    "ipa_phonetics": "/du.ɽup̚ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "durub me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सब बच्चे बैठ जाओ",
+    "synonyms": [
+      "सब बच्चे बैठो",
+      "सभी बैठ जाओ",
+      "बच्चे बैठ जाओ",
+      "सभी छात्र बैठें"
+    ],
+    "santhali_devanagari": "जोतो गिदरा दुड़ुब पे",
+    "santhali_ol_chiki": "ᱡᱚᱛᱚ ᱜᱤᱫᱽᱨᱟᱹ ᱫᱩᱲᱩᱵ ᱯᱮ",
+    "santhali_romanized": "Joto gidra durub pe",
+    "ipa_phonetics": "/dʒo.to gid.ra du.ɽup̚ pe/",
+    "category": "classroom_command",
+    "audio_phonemes": "joto gidra durub pe",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "खड़े हो जाओ",
+    "synonyms": [
+      "खड़े हो",
+      "खड़े होइए",
+      "उठो",
+      "खड़े रहें"
+    ],
+    "santhali_devanagari": "तिंगु गोद् मे",
+    "santhali_ol_chiki": "ᱛᱤᱝᱜᱩ ᱜᱚᱫ ᱢᱮ",
+    "santhali_romanized": "Tingu god me",
+    "ipa_phonetics": "/tiŋ.gu god me/",
+    "category": "classroom_command",
+    "audio_phonemes": "tingu god me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सब बच्चे खड़े हो जाओ",
+    "synonyms": [
+      "सभी खड़े हो जाओ",
+      "सब खड़े हो जाओ"
+    ],
+    "santhali_devanagari": "जोतो होड़ तिंगुन पे",
+    "santhali_ol_chiki": "ᱡᱚᱛᱚ ᱦᱚᱲ ᱛᱤᱝᱜᱩᱱ ᱯᱮ",
+    "santhali_romanized": "Joto hor tingun pe",
+    "ipa_phonetics": "/dʒo.to hoɽ tiŋ.gun pe/",
+    "category": "classroom_command",
+    "audio_phonemes": "joto hor tingun pe",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "किताब खोलो",
+    "synonyms": [
+      "किताब खोलिए",
+      "पुस्तक खोलो",
+      "किताबें खोलो",
+      "पुस्तिका खोलो"
+    ],
+    "santhali_devanagari": "पुथी झिज मे",
+    "santhali_ol_chiki": "ᱯᱩᱛᱷᱤ ᱡᱷᱤᱡ ᱢᱮ",
+    "santhali_romanized": "Puthi jhij me",
+    "ipa_phonetics": "/pu.tʰi dʒʰidʒ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "puthi jhij me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "किताब बंद करो",
+    "synonyms": [
+      "किताब बंद कीजिए",
+      "पुस्तक बंद करो"
+    ],
+    "santhali_devanagari": "पुथी बोंद मे",
+    "santhali_ol_chiki": "ᱯᱩᱛᱷᱤ ᱵᱚᱸᱫᱽ ᱢᱮ",
+    "santhali_romanized": "Puthi bond me",
+    "ipa_phonetics": "/pu.tʰi bond me/",
+    "category": "classroom_command",
+    "audio_phonemes": "puthi bond me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "शांत रहो",
+    "synonyms": [
+      "चुप रहो",
+      "शांति बनाए रखो",
+      "शोर मत करो",
+      "चुप रहिए"
+    ],
+    "santhali_devanagari": "थिर ताहेन मे",
+    "santhali_ol_chiki": "ᱛᱷᱤᱨ ᱛᱟᱦᱮᱸᱱ ᱢᱮ",
+    "santhali_romanized": "Thir tahen me",
+    "ipa_phonetics": "/tʰir ta.hen me/",
+    "category": "classroom_command",
+    "audio_phonemes": "thir tahen me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सभी बच्चे शांत रहो",
+    "synonyms": [
+      "सब चुप रहो",
+      "सारे बच्चे शांत रहो"
+    ],
+    "santhali_devanagari": "जोतो होड़ थिर ताहेन पे",
+    "santhali_ol_chiki": "ᱡᱚᱛᱚ ᱦᱚᱲ ᱛᱷᱤᱨ ᱛᱟᱦᱮᱸᱱ ᱯᱮ",
+    "santhali_romanized": "Joto hor thir tahen pe",
+    "ipa_phonetics": "/dʒo.to hoɽ tʰir ta.hen pe/",
+    "category": "classroom_command",
+    "audio_phonemes": "joto hor thir tahen pe",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "यहाँ आओ",
+    "synonyms": [
+      "इधर आओ",
+      "यहाँ आइए",
+      "इधर आइए"
+    ],
+    "santhali_devanagari": "नोडे हिजुः मे",
+    "santhali_ol_chiki": "ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ",
+    "santhali_romanized": "Node hijuh me",
+    "ipa_phonetics": "/no.ɖe hi.dʒuʔ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "node hijuh me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "वहाँ जाओ",
+    "synonyms": [
+      "उधर जाओ",
+      "वहाँ जाइए"
+    ],
+    "santhali_devanagari": "हांडे सेनोः मे",
+    "santhali_ol_chiki": "ᱦᱟᱱᱰᱮ ᱥᱮᱱᱚᱜ ᱢᱮ",
+    "santhali_romanized": "Hande senoh me",
+    "ipa_phonetics": "/han.ɖe se.noʔ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "hande senoh me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "ध्यान से सुनो",
+    "synonyms": [
+      "सुनो",
+      "सुनिए",
+      "मेरी बात सुनो",
+      "ध्यान दो"
+    ],
+    "santhali_devanagari": "ध्यान ते आंजोम मे",
+    "santhali_ol_chiki": "ᱫᱷᱮᱭᱟᱱ ᱛᱮ ᱟᱸᱡᱚᱢ ᱢᱮ",
+    "santhali_romanized": "Dhyan te anjom me",
+    "ipa_phonetics": "/dʰjan te an.dʒom me/",
+    "category": "classroom_command",
+    "audio_phonemes": "dhyan te anjom me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "ज़ोर से बोलो",
+    "synonyms": [
+      "तेज़ बोलो",
+      "बोलिए",
+      "स्पष्ट बोलो"
+    ],
+    "santhali_devanagari": "जुर ते रोड़ मे",
+    "santhali_ol_chiki": "ᱡᱩᱨ ᱛᱮ ᱨᱚᱲ ᱢᱮ",
+    "santhali_romanized": "Jur te ror me",
+    "ipa_phonetics": "/dʒur te roɽ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "jur te ror me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "लिखो",
+    "synonyms": [
+      "लिखिए",
+      "कॉपी में लिखो",
+      "नोट करो"
+    ],
+    "santhali_devanagari": "ओल मे",
+    "santhali_ol_chiki": "ᱚᱞ ᱢᱮ",
+    "santhali_romanized": "Ol me",
+    "ipa_phonetics": "/ol me/",
+    "category": "classroom_command",
+    "audio_phonemes": "ol me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "पढ़ो",
+    "synonyms": [
+      "पढ़िए",
+      "पाठ पढ़ो",
+      "जोर से पढ़ो"
+    ],
+    "santhali_devanagari": "पाड़हाव मे",
+    "santhali_ol_chiki": "ᱯᱟᱲᱦᱟᱣ ᱢᱮ",
+    "santhali_romanized": "Parhaw me",
+    "ipa_phonetics": "/pa.ɽʰaw me/",
+    "category": "classroom_command",
+    "audio_phonemes": "parhaw me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "श्यामपट्ट देखो",
+    "synonyms": [
+      "बोर्ड देखो",
+      "बोर्ड पर देखो",
+      "आगे देखो"
+    ],
+    "santhali_devanagari": "बोर्ड कोयोज़ मे",
+    "santhali_ol_chiki": "ᱵᱚᱨᱰ ᱠᱚᱭᱚᱜᱽ ᱢᱮ",
+    "santhali_romanized": "Board koyog me",
+    "ipa_phonetics": "/boːɖ ko.jog me/",
+    "category": "classroom_command",
+    "audio_phonemes": "board koyog me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "हाथ उठाओ",
+    "synonyms": [
+      "हाथ ऊपर करो",
+      "हाथ खड़े करो"
+    ],
+    "santhali_devanagari": "ती तुल मे",
+    "santhali_ol_chiki": "ᱛᱤ ᱛᱩᱞ ᱢᱮ",
+    "santhali_romanized": "Ti tul me",
+    "ipa_phonetics": "/ti tul me/",
+    "category": "classroom_command",
+    "audio_phonemes": "ti tul me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "ताली बजाओ",
+    "synonyms": [
+      "ताली मारो",
+      "क्लैप करो"
+    ],
+    "santhali_devanagari": "थईया थईया ताहरी मे",
+    "santhali_ol_chiki": "ᱛᱷᱟᱹᱭᱟᱹ ᱛᱷᱟᱹᱭᱟᱹ ᱛᱟᱦᱨᱤ ᱢᱮ",
+    "santhali_romanized": "Thaya tahri me",
+    "ipa_phonetics": "/tʰa.ja taʰ.ri me/",
+    "category": "classroom_command",
+    "audio_phonemes": "thaya tahri me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "शाबाश",
+    "synonyms": [
+      "बहुत अच्छे",
+      "बहुत बढ़िया",
+      "अति सुंदर",
+      "उत्कृष्ट"
+    ],
+    "santhali_devanagari": "आडी नापाय",
+    "santhali_ol_chiki": "ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ",
+    "santhali_romanized": "Adi napay",
+    "ipa_phonetics": "/a.ɖi na.paj/",
+    "category": "classroom_command",
+    "audio_phonemes": "adi napay",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "अपनी जगह पर जाओ",
+    "synonyms": [
+      "अपनी सीट पर बैठो",
+      "स्थान ग्रहण करो"
+    ],
+    "santhali_devanagari": "आपनार ठांव ते सेनोः मे",
+    "santhali_ol_chiki": "ᱟᱯᱱᱟᱨ ᱴᱷᱟᱶ ᱛᱮ ᱥᱮᱱᱚᱜ ᱢᱮ",
+    "santhali_romanized": "Apnar thaw te senoh me",
+    "ipa_phonetics": "/ap.nar tʰaw te se.noʔ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "apnar thaw te senoh me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "लाइन बनाओ",
+    "synonyms": [
+      "पंक्ति बनाओ",
+      "कतार में खड़े हो जाओ"
+    ],
+    "santhali_devanagari": "लाइन बेनाव मे",
+    "santhali_ol_chiki": "ᱞᱟᱭᱤᱱ ᱵᱮᱱᱟᱣ ᱢᱮ",
+    "santhali_romanized": "Line benaw me",
+    "ipa_phonetics": "/lajn be.naw me/",
+    "category": "classroom_command",
+    "audio_phonemes": "line benaw me",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "एक",
+    "synonyms": [
+      "१",
+      "1",
+      "इकाई"
+    ],
+    "santhali_devanagari": "मिद्",
+    "santhali_ol_chiki": "ᱢᱤᱫ",
+    "santhali_romanized": "Mid",
+    "ipa_phonetics": "/mit̚/",
+    "category": "number",
+    "audio_phonemes": "mid",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "दो",
+    "synonyms": [
+      "२",
+      "2",
+      "दहाई"
+    ],
+    "santhali_devanagari": "बार",
+    "santhali_ol_chiki": "ᱵᱟᱨ",
+    "santhali_romanized": "Bar",
+    "ipa_phonetics": "/bar/",
+    "category": "number",
+    "audio_phonemes": "bar",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "तीन",
+    "synonyms": [
+      "३",
+      "3"
+    ],
+    "santhali_devanagari": "पे",
+    "santhali_ol_chiki": "ᱯᱮ",
+    "santhali_romanized": "Pe",
+    "ipa_phonetics": "/pɛ/",
+    "category": "number",
+    "audio_phonemes": "pe",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "चार",
+    "synonyms": [
+      "४",
+      "4"
+    ],
+    "santhali_devanagari": "पुन",
+    "santhali_ol_chiki": "ᱯᱩᱱ",
+    "santhali_romanized": "Pun",
+    "ipa_phonetics": "/pun/",
+    "category": "number",
+    "audio_phonemes": "pun",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पाँच",
+    "synonyms": [
+      "५",
+      "5",
+      "पांच"
+    ],
+    "santhali_devanagari": "मोणे",
+    "santhali_ol_chiki": "ᱢᱚᱬᱮ",
+    "santhali_romanized": "Mone",
+    "ipa_phonetics": "/mo.ɳɛ/",
+    "category": "number",
+    "audio_phonemes": "mone",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "छह",
+    "synonyms": [
+      "६",
+      "6",
+      "छः",
+      "छ"
+    ],
+    "santhali_devanagari": "तुरुय",
+    "santhali_ol_chiki": "ᱛᱩᱨᱩᱭ",
+    "santhali_romanized": "Turuy",
+    "ipa_phonetics": "/tu.ruj/",
+    "category": "number",
+    "audio_phonemes": "turuy",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "सात",
+    "synonyms": [
+      "७",
+      "7"
+    ],
+    "santhali_devanagari": "एयाय",
+    "santhali_ol_chiki": "ᱮᱭᱟᱭ",
+    "santhali_romanized": "Eyay",
+    "ipa_phonetics": "/e.jaj/",
+    "category": "number",
+    "audio_phonemes": "eyay",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "आठ",
+    "synonyms": [
+      "८",
+      "8"
+    ],
+    "santhali_devanagari": "इरैल",
+    "santhali_ol_chiki": "ᱤᱨᱟᱹᱞ",
+    "santhali_romanized": "Iral",
+    "ipa_phonetics": "/i.rəl/",
+    "category": "number",
+    "audio_phonemes": "iral",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "नौ",
+    "synonyms": [
+      "९",
+      "9"
+    ],
+    "santhali_devanagari": "आरे",
+    "santhali_ol_chiki": "ᱟᱨᱮ",
+    "santhali_romanized": "Are",
+    "ipa_phonetics": "/a.rɛ/",
+    "category": "number",
+    "audio_phonemes": "are",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "दस",
+    "synonyms": [
+      "१०",
+      "10"
+    ],
+    "santhali_devanagari": "गेल",
+    "santhali_ol_chiki": "ᱜᱮᱞ",
+    "santhali_romanized": "Gel",
+    "ipa_phonetics": "/gɛl/",
+    "category": "number",
+    "audio_phonemes": "gel",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "ग्यारह",
+    "synonyms": [
+      "११",
+      "11"
+    ],
+    "santhali_devanagari": "गेल मिद्",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱢᱤᱫ",
+    "santhali_romanized": "Gel mid",
+    "ipa_phonetics": "/gɛl mit̚/",
+    "category": "number",
+    "audio_phonemes": "gel mid",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "बारह",
+    "synonyms": [
+      "१२",
+      "12"
+    ],
+    "santhali_devanagari": "गेल बार",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱵᱟᱨ",
+    "santhali_romanized": "Gel bar",
+    "ipa_phonetics": "/gɛl bar/",
+    "category": "number",
+    "audio_phonemes": "gel bar",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "तेरह",
+    "synonyms": [
+      "१३",
+      "13"
+    ],
+    "santhali_devanagari": "गेल पे",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱯᱮ",
+    "santhali_romanized": "Gel pe",
+    "ipa_phonetics": "/gɛl pɛ/",
+    "category": "number",
+    "audio_phonemes": "gel pe",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "चौदह",
+    "synonyms": [
+      "१४",
+      "14"
+    ],
+    "santhali_devanagari": "गेल पुन",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱯᱩᱱ",
+    "santhali_romanized": "Gel pun",
+    "ipa_phonetics": "/gɛl pun/",
+    "category": "number",
+    "audio_phonemes": "gel pun",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "पंद्रह",
+    "synonyms": [
+      "१५",
+      "15"
+    ],
+    "santhali_devanagari": "गेल मोणे",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱢᱚᱬᱮ",
+    "santhali_romanized": "Gel mone",
+    "ipa_phonetics": "/gɛl mo.ɳɛ/",
+    "category": "number",
+    "audio_phonemes": "gel mone",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "सोलह",
+    "synonyms": [
+      "१६",
+      "16"
+    ],
+    "santhali_devanagari": "गेल तुरुय",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱛᱩᱨᱩᱭ",
+    "santhali_romanized": "Gel turuy",
+    "ipa_phonetics": "/gɛl tu.ruj/",
+    "category": "number",
+    "audio_phonemes": "gel turuy",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "सत्रह",
+    "synonyms": [
+      "१७",
+      "17"
+    ],
+    "santhali_devanagari": "गेल एयाय",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱮᱭᱟᱭ",
+    "santhali_romanized": "Gel eyay",
+    "ipa_phonetics": "/gɛl e.jaj/",
+    "category": "number",
+    "audio_phonemes": "gel eyay",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "अठारह",
+    "synonyms": [
+      "१८",
+      "18"
+    ],
+    "santhali_devanagari": "गेल इरैल",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱤᱨᱟᱹᱞ",
+    "santhali_romanized": "Gel iral",
+    "ipa_phonetics": "/gɛl i.rəl/",
+    "category": "number",
+    "audio_phonemes": "gel iral",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "उन्नीस",
+    "synonyms": [
+      "१९",
+      "19"
+    ],
+    "santhali_devanagari": "गेल आरे",
+    "santhali_ol_chiki": "ᱜᱮᱞ ᱟᱨᱮ",
+    "santhali_romanized": "Gel are",
+    "ipa_phonetics": "/gɛl a.rɛ/",
+    "category": "number",
+    "audio_phonemes": "gel are",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "बीस",
+    "synonyms": [
+      "२०",
+      "20"
+    ],
+    "santhali_devanagari": "इसी",
+    "santhali_ol_chiki": "ᱤᱥᱤ",
+    "santhali_romanized": "Isi",
+    "ipa_phonetics": "/i.si/",
+    "category": "number",
+    "audio_phonemes": "isi",
+    "grade_level": "Class 2"
+  },
+  {
+    "hindi_term": "माँ",
+    "synonyms": [
+      "माता",
+      "मम्मी",
+      "अम्मा"
+    ],
+    "santhali_devanagari": "आयो",
+    "santhali_ol_chiki": "ᱟᱭᱳ",
+    "santhali_romanized": "Ayo",
+    "ipa_phonetics": "/a.jo/",
+    "category": "family",
+    "audio_phonemes": "ayo",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पिता",
+    "synonyms": [
+      "पिताजी",
+      "पापा",
+      "बापू"
+    ],
+    "santhali_devanagari": "बाबा",
+    "santhali_ol_chiki": "ᱵᱟᱵᱟ",
+    "santhali_romanized": "Baba",
+    "ipa_phonetics": "/ba.ba/",
+    "category": "family",
+    "audio_phonemes": "baba",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "भाई",
+    "synonyms": [
+      "भैया",
+      "छोटा भाई",
+      "बड़ा भाई"
+    ],
+    "santhali_devanagari": "बोयहा",
+    "santhali_ol_chiki": "ᱵᱚᱭᱦᱟ",
+    "santhali_romanized": "Boyha",
+    "ipa_phonetics": "/boj.ha/",
+    "category": "family",
+    "audio_phonemes": "boyha",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बहन",
+    "synonyms": [
+      "दीदी",
+      "छोटी बहन"
+    ],
+    "santhali_devanagari": "मिसि",
+    "santhali_ol_chiki": "ᱢᱤᱥᱤ",
+    "santhali_romanized": "Misi",
+    "ipa_phonetics": "/mi.si/",
+    "category": "family",
+    "audio_phonemes": "misi",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "दादा",
+    "synonyms": [
+      "दादाजी",
+      "बाबा"
+    ],
+    "santhali_devanagari": "हाड़ाम बा",
+    "santhali_ol_chiki": "ᱦᱟᱲᱟᱢ ᱵᱟ",
+    "santhali_romanized": "Haram ba",
+    "ipa_phonetics": "/ha.ɽam ba/",
+    "category": "family",
+    "audio_phonemes": "haram ba",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "दादी",
+    "synonyms": [
+      "दादीजी",
+      "नानी"
+    ],
+    "santhali_devanagari": "बुढ़ी आयो",
+    "santhali_ol_chiki": "ᱵᱩᱰᱷᱤ ᱟᱭᱳ",
+    "santhali_romanized": "Budhi ayo",
+    "ipa_phonetics": "/bu.ɖʰi a.jo/",
+    "category": "family",
+    "audio_phonemes": "budhi ayo",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "शिक्षक",
+    "synonyms": [
+      "गुरुजी",
+      "अध्यापक",
+      "मास्टर साहब"
+    ],
+    "santhali_devanagari": "माचेत",
+    "santhali_ol_chiki": "ᱢᱟᱪᱮᱛ",
+    "santhali_romanized": "Machet",
+    "ipa_phonetics": "/ma.tʃɛt̚/",
+    "category": "family",
+    "audio_phonemes": "machet",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "शिक्षिका",
+    "synonyms": [
+      "मैडम",
+      "अध्यापिका"
+    ],
+    "santhali_devanagari": "माचेतानी",
+    "santhali_ol_chiki": "ᱢᱟᱪᱮᱛᱟᱹᱱᱤ",
+    "santhali_romanized": "Machetani",
+    "ipa_phonetics": "/ma.tʃɛ.ta.ni/",
+    "category": "family",
+    "audio_phonemes": "machetani",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "बच्चा",
+    "synonyms": [
+      "बालक",
+      "बच्चे",
+      "विद्यार्थी",
+      "छात्र"
+    ],
+    "santhali_devanagari": "गिदरा",
+    "santhali_ol_chiki": "ᱜᱤᱫᱽᱨᱟᱹ",
+    "santhali_romanized": "Gidra",
+    "ipa_phonetics": "/gid.rə/",
+    "category": "family",
+    "audio_phonemes": "gidra",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "दोस्त",
+    "synonyms": [
+      "मित्र",
+      "सखा",
+      "सहेली"
+    ],
+    "santhali_devanagari": "गाते",
+    "santhali_ol_chiki": "ᱜᱟᱛᱮ",
+    "santhali_romanized": "Gate",
+    "ipa_phonetics": "/ga.tɛ/",
+    "category": "family",
+    "audio_phonemes": "gate",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पेड़",
+    "synonyms": [
+      "वृक्ष",
+      "तरु",
+      "गाछ"
+    ],
+    "santhali_devanagari": "दारे",
+    "santhali_ol_chiki": "ᱫᱟᱨᱮ",
+    "santhali_romanized": "Dare",
+    "ipa_phonetics": "/da.rɛ/",
+    "category": "nature",
+    "audio_phonemes": "dare",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सखुआ",
+    "synonyms": [
+      "साल",
+      "साल का पेड़",
+      "सरजोम"
+    ],
+    "santhali_devanagari": "सारजोम",
+    "santhali_ol_chiki": "ᱥᱟᱨᱡᱚᱢ",
+    "santhali_romanized": "Sarjom",
+    "ipa_phonetics": "/sar.dʒom/",
+    "category": "nature",
+    "audio_phonemes": "sarjom",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "महुआ",
+    "synonyms": [
+      "महुआ का पेड़",
+      "महुआ फूल"
+    ],
+    "santhali_devanagari": "महुवा",
+    "santhali_ol_chiki": "ᱢᱟᱹᱦᱩᱣᱟᱹ",
+    "santhali_romanized": "Mahuwa",
+    "ipa_phonetics": "/mə.hu.wə/",
+    "category": "nature",
+    "audio_phonemes": "mahuwa",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "पत्ता",
+    "synonyms": [
+      "पत्ते",
+      "पात",
+      "पत्ती"
+    ],
+    "santhali_devanagari": "साकाम",
+    "santhali_ol_chiki": "ᱥᱟᱠᱟᱢ",
+    "santhali_romanized": "Sakam",
+    "ipa_phonetics": "/sa.kam/",
+    "category": "nature",
+    "audio_phonemes": "sakam",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "फूल",
+    "synonyms": [
+      "पुष्प",
+      "कुसुम"
+    ],
+    "santhali_devanagari": "बाहा",
+    "santhali_ol_chiki": "ᱵᱟᱦᱟ",
+    "santhali_romanized": "Baha",
+    "ipa_phonetics": "/ba.ha/",
+    "category": "nature",
+    "audio_phonemes": "baha",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "फल",
+    "synonyms": [
+      "फलफूल"
+    ],
+    "santhali_devanagari": "जो",
+    "santhali_ol_chiki": "ᱡᱚ",
+    "santhali_romanized": "Jo",
+    "ipa_phonetics": "/dʒo/",
+    "category": "nature",
+    "audio_phonemes": "jo",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "नदी",
+    "synonyms": [
+      "सरिता",
+      "धारा"
+    ],
+    "santhali_devanagari": "गाडा",
+    "santhali_ol_chiki": "ᱜᱟᱰᱟ",
+    "santhali_romanized": "Gada",
+    "ipa_phonetics": "/ga.ɖa/",
+    "category": "nature",
+    "audio_phonemes": "gada",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "पहाड़",
+    "synonyms": [
+      "पर्वत",
+      "गिरि"
+    ],
+    "santhali_devanagari": "बुरु",
+    "santhali_ol_chiki": "ᱵᱩᱨᱩ",
+    "santhali_romanized": "Buru",
+    "ipa_phonetics": "/bu.ru/",
+    "category": "nature",
+    "audio_phonemes": "buru",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "जंगल",
+    "synonyms": [
+      "वन",
+      "अरण्य",
+      "झाड़ी"
+    ],
+    "santhali_devanagari": "बीर",
+    "santhali_ol_chiki": "ᱵᱤᱨ",
+    "santhali_romanized": "Bir",
+    "ipa_phonetics": "/bir/",
+    "category": "nature",
+    "audio_phonemes": "bir",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "गाँव",
+    "synonyms": [
+      "ग्राम",
+      "बस्ती"
+    ],
+    "santhali_devanagari": "आतु",
+    "santhali_ol_chiki": "ᱟᱹᱛᱩ",
+    "santhali_romanized": "Atu",
+    "ipa_phonetics": "/ə.tu/",
+    "category": "nature",
+    "audio_phonemes": "atu",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "घर",
+    "synonyms": [
+      "मकान",
+      "गृह",
+      "निवास"
+    ],
+    "santhali_devanagari": "ओड़ाः",
+    "santhali_ol_chiki": "ᱚᱲᱟᱜ",
+    "santhali_romanized": "Orah",
+    "ipa_phonetics": "/o.ɽaʔ/",
+    "category": "nature",
+    "audio_phonemes": "orah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पानी",
+    "synonyms": [
+      "जल",
+      "नीर",
+      "वारी"
+    ],
+    "santhali_devanagari": "दाः",
+    "santhali_ol_chiki": "ᱫᱟᱜ",
+    "santhali_romanized": "Dah",
+    "ipa_phonetics": "/daʔ/",
+    "category": "nature",
+    "audio_phonemes": "dah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "आग",
+    "synonyms": [
+      "अग्नि",
+      "अनल"
+    ],
+    "santhali_devanagari": "सेंगल",
+    "santhali_ol_chiki": "ᱥᱮᱸᱜᱮᱞ",
+    "santhali_romanized": "Sengel",
+    "ipa_phonetics": "/seŋ.gɛl/",
+    "category": "nature",
+    "audio_phonemes": "sengel",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "हवा",
+    "synonyms": [
+      "वायु",
+      "समीर",
+      "पवन"
+    ],
+    "santhali_devanagari": "होय",
+    "santhali_ol_chiki": "ᱦᱚᱭ",
+    "santhali_romanized": "Hoy",
+    "ipa_phonetics": "/hɔj/",
+    "category": "nature",
+    "audio_phonemes": "hoy",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "मिट्टी",
+    "synonyms": [
+      "धूल",
+      "माटी"
+    ],
+    "santhali_devanagari": "हासा",
+    "santhali_ol_chiki": "ᱦᱟᱥᱟ",
+    "santhali_romanized": "Hasa",
+    "ipa_phonetics": "/ha.sa/",
+    "category": "nature",
+    "audio_phonemes": "hasa",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "सूरज",
+    "synonyms": [
+      "सूर्य",
+      "दिनकर",
+      "भास्कर"
+    ],
+    "santhali_devanagari": "सिंज चांदो",
+    "santhali_ol_chiki": "ᱥᱤᱧ ᱪᱟᱸᱫᱚ",
+    "santhali_romanized": "Sinj Chando",
+    "ipa_phonetics": "/siɲ tʃan.do/",
+    "category": "nature",
+    "audio_phonemes": "sinj chando",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "चाँद",
+    "synonyms": [
+      "चन्द्रमा",
+      "चंदा मामा",
+      "शशि"
+    ],
+    "santhali_devanagari": "ञिदा चांदो",
+    "santhali_ol_chiki": "ᱧᱤᱫᱟᱹ ᱪᱟᱸᱫᱚ",
+    "santhali_romanized": "Nyida Chando",
+    "ipa_phonetics": "/ɲi.da tʃan.do/",
+    "category": "nature",
+    "audio_phonemes": "nyida chando",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बारिश",
+    "synonyms": [
+      "वर्षा",
+      "बरसात",
+      "पानी गिरना"
+    ],
+    "santhali_devanagari": "दाः जाड़ी",
+    "santhali_ol_chiki": "ᱫᱟᱜ ᱡᱟᱹᱲᱤ",
+    "santhali_romanized": "Dah jari",
+    "ipa_phonetics": "/daʔ dʒa.ɽi/",
+    "category": "nature",
+    "audio_phonemes": "dah jari",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "मांदर",
+    "synonyms": [
+      "ढोल",
+      "मादल",
+      "नगाड़ा"
+    ],
+    "santhali_devanagari": "तुमदाः",
+    "santhali_ol_chiki": "ᱛᱩᱢᱫᱟᱜ",
+    "santhali_romanized": "Tumdah",
+    "ipa_phonetics": "/tum.daʔ/",
+    "category": "realia",
+    "audio_phonemes": "tumdah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "तीर-धनुष",
+    "synonyms": [
+      "धनुष",
+      "बाण",
+      "तीर"
+    ],
+    "santhali_devanagari": "आग-सार",
+    "santhali_ol_chiki": "ᱟᱜ-ᱥᱟᱨ",
+    "santhali_romanized": "Ag-sar",
+    "ipa_phonetics": "/ag sar/",
+    "category": "realia",
+    "audio_phonemes": "ag sar",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "हाथी",
+    "synonyms": [
+      "गज",
+      "हस्ती"
+    ],
+    "santhali_devanagari": "हाती",
+    "santhali_ol_chiki": "ᱦᱟᱹᱛᱤ",
+    "santhali_romanized": "Hati",
+    "ipa_phonetics": "/hə.ti/",
+    "category": "animal",
+    "audio_phonemes": "hati",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बाघ",
+    "synonyms": [
+      "शेर",
+      "चीता",
+      "व्याघ्र"
+    ],
+    "santhali_devanagari": "तारुब",
+    "santhali_ol_chiki": "ᱛᱟᱹᱨᱩᱵ",
+    "santhali_romanized": "Tarub",
+    "ipa_phonetics": "/tə.rup̚/",
+    "category": "animal",
+    "audio_phonemes": "tarub",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "गाय",
+    "synonyms": [
+      "गौ",
+      "गैया"
+    ],
+    "santhali_devanagari": "गई",
+    "santhali_ol_chiki": "ᱜᱟᱹᱭ",
+    "santhali_romanized": "Gay",
+    "ipa_phonetics": "/gəj/",
+    "category": "animal",
+    "audio_phonemes": "gay",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बैल",
+    "synonyms": [
+      "वृषभ",
+      "साँढ़"
+    ],
+    "santhali_devanagari": "डांगरा",
+    "santhali_ol_chiki": "ᱰᱟᱝᱜᱽᱨᱟ",
+    "santhali_romanized": "Dangra",
+    "ipa_phonetics": "/ɖaŋ.gra/",
+    "category": "animal",
+    "audio_phonemes": "dangra",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "बकरी",
+    "synonyms": [
+      "बकरा",
+      "छाग"
+    ],
+    "santhali_devanagari": "मेरोम",
+    "santhali_ol_chiki": "ᱢᱮᱨᱚᱢ",
+    "santhali_romanized": "Merom",
+    "ipa_phonetics": "/me.rom/",
+    "category": "animal",
+    "audio_phonemes": "merom",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "कुत्ता",
+    "synonyms": [
+      "श्वान",
+      "पिल्ला"
+    ],
+    "santhali_devanagari": "सेता",
+    "santhali_ol_chiki": "ᱥᱮᱛᱟ",
+    "santhali_romanized": "Seta",
+    "ipa_phonetics": "/se.ta/",
+    "category": "animal",
+    "audio_phonemes": "seta",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बिल्ली",
+    "synonyms": [
+      "मार्जार",
+      "बिलाव"
+    ],
+    "santhali_devanagari": "पुसी",
+    "santhali_ol_chiki": "ᱯᱩᱥᱤ",
+    "santhali_romanized": "Pusi",
+    "ipa_phonetics": "/pu.si/",
+    "category": "animal",
+    "audio_phonemes": "pusi",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "घोड़ा",
+    "synonyms": [
+      "अश्व",
+      "घोटक"
+    ],
+    "santhali_devanagari": "सादोम",
+    "santhali_ol_chiki": "ᱥᱟᱫᱚᱢ",
+    "santhali_romanized": "Sadom",
+    "ipa_phonetics": "/sa.dom/",
+    "category": "animal",
+    "audio_phonemes": "sadom",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "पक्षी",
+    "synonyms": [
+      "चिड़िया",
+      "विहग",
+      "पंछी"
+    ],
+    "santhali_devanagari": "चेणे",
+    "santhali_ol_chiki": "ᱪᱮᱬᱮ",
+    "santhali_romanized": "Chene",
+    "ipa_phonetics": "/tʃe.ɳɛ/",
+    "category": "animal",
+    "audio_phonemes": "chene",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "कौवा",
+    "synonyms": [
+      "काग",
+      "वायस"
+    ],
+    "santhali_devanagari": "कावा",
+    "santhali_ol_chiki": "ᱠᱟᱣᱟ",
+    "santhali_romanized": "Kawa",
+    "ipa_phonetics": "/ka.wa/",
+    "category": "animal",
+    "audio_phonemes": "kawa",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "मछली",
+    "synonyms": [
+      "मत्स्य",
+      "मीन"
+    ],
+    "santhali_devanagari": "हाकु",
+    "santhali_ol_chiki": "ᱦᱟᱹᱠᱩ",
+    "santhali_romanized": "Haku",
+    "ipa_phonetics": "/hə.ku/",
+    "category": "animal",
+    "audio_phonemes": "haku",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "मुर्गी",
+    "synonyms": [
+      "कुकुटी",
+      "मुर्गा"
+    ],
+    "santhali_devanagari": "सीम",
+    "santhali_ol_chiki": "ᱥᱤᱢ",
+    "santhali_romanized": "Sim",
+    "ipa_phonetics": "/sim/",
+    "category": "animal",
+    "audio_phonemes": "sim",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "मोर",
+    "synonyms": [
+      "मयूर"
+    ],
+    "santhali_devanagari": "माराः",
+    "santhali_ol_chiki": "ᱢᱟᱨᱟᱜ",
+    "santhali_romanized": "Marah",
+    "ipa_phonetics": "/ma.raʔ/",
+    "category": "animal",
+    "audio_phonemes": "marah",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "लाल",
+    "synonyms": [
+      "रक्त"
+    ],
+    "santhali_devanagari": "आराः",
+    "santhali_ol_chiki": "ᱟᱨᱟᱜ",
+    "santhali_romanized": "Arah",
+    "ipa_phonetics": "/a.raʔ/",
+    "category": "color",
+    "audio_phonemes": "arah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "हरा",
+    "synonyms": [
+      "हरित"
+    ],
+    "santhali_devanagari": "हरियाड़",
+    "santhali_ol_chiki": "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ",
+    "santhali_romanized": "Hariyar",
+    "ipa_phonetics": "/hə.ri.jəɽ/",
+    "category": "color",
+    "audio_phonemes": "hariyar",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पीला",
+    "synonyms": [
+      "पीत"
+    ],
+    "santhali_devanagari": "सासांग",
+    "santhali_ol_chiki": "ᱥᱟᱥᱟᱝ",
+    "santhali_romanized": "Sasang",
+    "ipa_phonetics": "/sa.saŋ/",
+    "category": "color",
+    "audio_phonemes": "sasang",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "नीला",
+    "synonyms": [
+      "नील"
+    ],
+    "santhali_devanagari": "लील",
+    "santhali_ol_chiki": "ᱞᱤᱞ",
+    "santhali_romanized": "Lil",
+    "ipa_phonetics": "/lil/",
+    "category": "color",
+    "audio_phonemes": "lil",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "सफेद",
+    "synonyms": [
+      "श्वेत",
+      "उजला"
+    ],
+    "santhali_devanagari": "पूंड",
+    "santhali_ol_chiki": "ᱯᱩᱸᱰ",
+    "santhali_romanized": "Pund",
+    "ipa_phonetics": "/pũːɖ/",
+    "category": "color",
+    "audio_phonemes": "pund",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "काला",
+    "synonyms": [
+      "श्याम"
+    ],
+    "santhali_devanagari": "हेंदे",
+    "santhali_ol_chiki": "ᱦᱮᱸᱫᱮ",
+    "santhali_romanized": "Hende",
+    "ipa_phonetics": "/hẽ.dɛ/",
+    "category": "color",
+    "audio_phonemes": "hende",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "किताब",
+    "synonyms": [
+      "पुस्तक",
+      "पोथी",
+      "ग्रंथ"
+    ],
+    "santhali_devanagari": "पुथी",
+    "santhali_ol_chiki": "ᱯᱩᱛᱷᱤ",
+    "santhali_romanized": "Puthi",
+    "ipa_phonetics": "/pu.tʰi/",
+    "category": "school",
+    "audio_phonemes": "puthi",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "कलम",
+    "synonyms": [
+      "पेन",
+      "लेखनी"
+    ],
+    "santhali_devanagari": "कोलोम",
+    "santhali_ol_chiki": "ᱠᱚᱞᱚᱢ",
+    "santhali_romanized": "Kolom",
+    "ipa_phonetics": "/ko.lom/",
+    "category": "school",
+    "audio_phonemes": "kolom",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पेंसिल",
+    "synonyms": [
+      "लेड पेंसिल"
+    ],
+    "santhali_devanagari": "पेन्सिल",
+    "santhali_ol_chiki": "ᱯᱮᱱᱥᱤᱞ",
+    "santhali_romanized": "Pencil",
+    "ipa_phonetics": "/pen.sil/",
+    "category": "school",
+    "audio_phonemes": "pencil",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "कॉपी",
+    "synonyms": [
+      "पुस्तिका",
+      "नोटबुक"
+    ],
+    "santhali_devanagari": "खाता",
+    "santhali_ol_chiki": "ᱠᱷᱟᱛᱟ",
+    "santhali_romanized": "Khata",
+    "ipa_phonetics": "/kʰa.ta/",
+    "category": "school",
+    "audio_phonemes": "khata",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "थैला",
+    "synonyms": [
+      "बस्ता",
+      "बैग"
+    ],
+    "santhali_devanagari": "झोला",
+    "santhali_ol_chiki": "ᱡᱷᱳᱞᱟ",
+    "santhali_romanized": "Jhola",
+    "ipa_phonetics": "/dʒʰo.la/",
+    "category": "school",
+    "audio_phonemes": "jhola",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "घंटी",
+    "synonyms": [
+      "घंटिका",
+      "बेल"
+    ],
+    "santhali_devanagari": "घंटी",
+    "santhali_ol_chiki": "ᱜᱷᱟᱹᱱᱴᱤ",
+    "santhali_romanized": "Ghanti",
+    "ipa_phonetics": "/gʰən.ti/",
+    "category": "school",
+    "audio_phonemes": "ghanti",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "स्कूल",
+    "synonyms": [
+      "विद्यालय",
+      "पाठशाला"
+    ],
+    "santhali_devanagari": "आसड़ा",
+    "santhali_ol_chiki": "ᱟᱥᱲᱟ",
+    "santhali_romanized": "Asra",
+    "ipa_phonetics": "/as.ɽa/",
+    "category": "school",
+    "audio_phonemes": "asra",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "भात",
+    "synonyms": [
+      "चावल",
+      "पका हुआ चावल",
+      "अन्न"
+    ],
+    "santhali_devanagari": "दाका",
+    "santhali_ol_chiki": "ᱫᱟᱠᱟ",
+    "santhali_romanized": "Daka",
+    "ipa_phonetics": "/da.ka/",
+    "category": "food",
+    "audio_phonemes": "daka",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "दाल",
+    "synonyms": [
+      "दलिया"
+    ],
+    "santhali_devanagari": "दाल",
+    "santhali_ol_chiki": "ᱫᱟᱹᱞ",
+    "santhali_romanized": "Dal",
+    "ipa_phonetics": "/dəl/",
+    "category": "food",
+    "audio_phonemes": "dal",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "रोटी",
+    "synonyms": [
+      "चपाती",
+      "फुल्का"
+    ],
+    "santhali_devanagari": "पीठा",
+    "santhali_ol_chiki": "ᱯᱤᱴᱷᱟᱹ",
+    "santhali_romanized": "Pitha",
+    "ipa_phonetics": "/pi.tʰə/",
+    "category": "food",
+    "audio_phonemes": "pitha",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "नमक",
+    "synonyms": [
+      "लवण"
+    ],
+    "santhali_devanagari": "बुलुंग",
+    "santhali_ol_chiki": "ᱵᱩᱞᱩᱝ",
+    "santhali_romanized": "Bulung",
+    "ipa_phonetics": "/bu.luŋ/",
+    "category": "food",
+    "audio_phonemes": "bulung",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "दूध",
+    "synonyms": [
+      "दुग्ध",
+      "क्षीर"
+    ],
+    "santhali_devanagari": "तोवा",
+    "santhali_ol_chiki": "ᱛᱳᱣᱟ",
+    "santhali_romanized": "Towa",
+    "ipa_phonetics": "/to.wa/",
+    "category": "food",
+    "audio_phonemes": "towa",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "आम",
+    "synonyms": [
+      "आम्र",
+      "रसाल"
+    ],
+    "santhali_devanagari": "उल",
+    "santhali_ol_chiki": "ᱩᱞ",
+    "santhali_romanized": "Ul",
+    "ipa_phonetics": "/ul/",
+    "category": "food",
+    "audio_phonemes": "ul",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "आँख",
+    "synonyms": [
+      "नेत्र",
+      "नयन",
+      "चक्षु"
+    ],
+    "santhali_devanagari": "मेद",
+    "santhali_ol_chiki": "ᱢᱮᱫ",
+    "santhali_romanized": "Med",
+    "ipa_phonetics": "/mɛt̚/",
+    "category": "body",
+    "audio_phonemes": "med",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "कान",
+    "synonyms": [
+      "कर्ण",
+      "श्रोत्र"
+    ],
+    "santhali_devanagari": "लुंतुर",
+    "santhali_ol_chiki": "ᱞᱩᱛᱩᱨ",
+    "santhali_romanized": "Lutur",
+    "ipa_phonetics": "/lu.tur/",
+    "category": "body",
+    "audio_phonemes": "lutur",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "नाक",
+    "synonyms": [
+      "नासिका"
+    ],
+    "santhali_devanagari": "मूँ",
+    "santhali_ol_chiki": "ᱢᱩᱸ",
+    "santhali_romanized": "Mu",
+    "ipa_phonetics": "/mũː/",
+    "category": "body",
+    "audio_phonemes": "mu",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "मुँह",
+    "synonyms": [
+      "मुख",
+      "वदन"
+    ],
+    "santhali_devanagari": "मोचा",
+    "santhali_ol_chiki": "ᱢᱚᱪᱟ",
+    "santhali_romanized": "Mocha",
+    "ipa_phonetics": "/mo.tʃa/",
+    "category": "body",
+    "audio_phonemes": "mocha",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "हाथ",
+    "synonyms": [
+      "हस्त",
+      "कर"
+    ],
+    "santhali_devanagari": "ती",
+    "santhali_ol_chiki": "ᱛᱤ",
+    "santhali_romanized": "Ti",
+    "ipa_phonetics": "/ti/",
+    "category": "body",
+    "audio_phonemes": "ti",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पैर",
+    "synonyms": [
+      "चरण",
+      "पाद"
+    ],
+    "santhali_devanagari": "जांगा",
+    "santhali_ol_chiki": "ᱡᱟᱝᱜᱟ",
+    "santhali_romanized": "Janga",
+    "ipa_phonetics": "/dʒaŋ.ga/",
+    "category": "body",
+    "audio_phonemes": "janga",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सिर",
+    "synonyms": [
+      "मस्तक",
+      "माथा"
+    ],
+    "santhali_devanagari": "बोहोः",
+    "santhali_ol_chiki": "ᱵᱚᱦᱚᱜ",
+    "santhali_romanized": "Bohog",
+    "ipa_phonetics": "/bo.hɔʔ/",
+    "category": "body",
+    "audio_phonemes": "bohog",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पेट",
+    "synonyms": [
+      "उदर"
+    ],
+    "santhali_devanagari": "लाज",
+    "santhali_ol_chiki": "ᱞᱟᱡ",
+    "santhali_romanized": "Laj",
+    "ipa_phonetics": "/ladʒ/",
+    "category": "body",
+    "audio_phonemes": "laj",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "खाना",
+    "synonyms": [
+      "भोजन करना",
+      "खाना खाओ"
+    ],
+    "santhali_devanagari": "जोम",
+    "santhali_ol_chiki": "ᱡᱚᱢ",
+    "santhali_romanized": "Jom",
+    "ipa_phonetics": "/dʒom/",
+    "category": "verb",
+    "audio_phonemes": "jom",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "पीना",
+    "synonyms": [
+      "पानी पीना"
+    ],
+    "santhali_devanagari": "ञु",
+    "santhali_ol_chiki": "ᱧᱩ",
+    "santhali_romanized": "Nyu",
+    "ipa_phonetics": "/ɲu/",
+    "category": "verb",
+    "audio_phonemes": "nyu",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "खेलना",
+    "synonyms": [
+      "क्रीड़ा करना"
+    ],
+    "santhali_devanagari": "एनेज",
+    "santhali_ol_chiki": "ᱮᱱᱮᱡ",
+    "santhali_romanized": "Enej",
+    "ipa_phonetics": "/e.nɛdʒ/",
+    "category": "verb",
+    "audio_phonemes": "enej",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "दौड़ना",
+    "synonyms": [
+      "भागना"
+    ],
+    "santhali_devanagari": "दौड़",
+    "santhali_ol_chiki": "ᱫᱟᱹᱲ",
+    "santhali_romanized": "Dar",
+    "ipa_phonetics": "/dəɽ/",
+    "category": "verb",
+    "audio_phonemes": "dar",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "सोना",
+    "synonyms": [
+      "नींद लेना"
+    ],
+    "santhali_devanagari": "जापिद",
+    "santhali_ol_chiki": "ᱡᱟᱹᱯᱤᱫ",
+    "santhali_romanized": "Japid",
+    "ipa_phonetics": "/dʒə.pit̚/",
+    "category": "verb",
+    "audio_phonemes": "japid",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "जागना",
+    "synonyms": [
+      "उठना"
+    ],
+    "santhali_devanagari": "बेरेद",
+    "santhali_ol_chiki": "ᱵᱮᱨᱮᱫ",
+    "santhali_romanized": "Bered",
+    "ipa_phonetics": "/be.rɛt̚/",
+    "category": "verb",
+    "audio_phonemes": "bered",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "हँसना",
+    "synonyms": [
+      "मुस्कुराना"
+    ],
+    "santhali_devanagari": "लांदा",
+    "santhali_ol_chiki": "ᱞᱟᱸᱫᱟ",
+    "santhali_romanized": "Landa",
+    "ipa_phonetics": "/lan.da/",
+    "category": "verb",
+    "audio_phonemes": "landa",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "रोना",
+    "synonyms": [
+      "विलाप करना"
+    ],
+    "santhali_devanagari": "राः",
+    "santhali_ol_chiki": "ᱨᱟᱜ",
+    "santhali_romanized": "Rah",
+    "ipa_phonetics": "/raʔ/",
+    "category": "verb",
+    "audio_phonemes": "rah",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "देखना",
+    "synonyms": [
+      "निहारना"
+    ],
+    "santhali_devanagari": "ञेल",
+    "santhali_ol_chiki": "ᱧᱮᱞ",
+    "santhali_romanized": "Nyel",
+    "ipa_phonetics": "/ɲɛl/",
+    "category": "verb",
+    "audio_phonemes": "nyel",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "बोलना",
+    "synonyms": [
+      "कहना",
+      "बात करना"
+    ],
+    "santhali_devanagari": "रोड़",
+    "santhali_ol_chiki": "ᱨᱚᱲ",
+    "santhali_romanized": "Ror",
+    "ipa_phonetics": "/roɽ/",
+    "category": "verb",
+    "audio_phonemes": "ror",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "क्या कर रहे हो",
+    "synonyms": [
+      "क्या करता है",
+      "क्या करते हो",
+      "क्या कर रहा है",
+      "क्या कर रही हो",
+      "kya karta hai",
+      "kya karte",
+      "kya kar rahe ho",
+      "what are you doing"
+    ],
+    "santhali_devanagari": "चेद एम चेकायेद-आ?",
+    "santhali_ol_chiki": "ᱪᱮᱫ ᱮᱢ ᱪᱮᱠᱟᱭᱮᱫ-ᱟ?",
+    "santhali_romanized": "Ched em chekayeda?",
+    "ipa_phonetics": "/tʃed em tʃe.ka.je.da/",
+    "category": "question",
+    "audio_phonemes": "ched em chekayeda",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "कहाँ जा रहे हो",
+    "synonyms": [
+      "कहाँ जा रहे",
+      "कहाँ जाते हो",
+      "kaha ja rahe ho",
+      "kahan ja rahe ho",
+      "where are you going"
+    ],
+    "santhali_devanagari": "ओका तेम सेनोः काना?",
+    "santhali_ol_chiki": "ᱚᱠᱟ ᱛᱮᱢ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ?",
+    "santhali_romanized": "Oka tem senoh kana?",
+    "ipa_phonetics": "/o.ka tem se.noʔ ka.na/",
+    "category": "question",
+    "audio_phonemes": "oka tem senoh kana",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "क्या बात है",
+    "synonyms": [
+      "क्या हुआ",
+      "kya baat hai",
+      "kya hua",
+      "what happened",
+      "what is the matter"
+    ],
+    "santhali_devanagari": "चेद काथा काना?",
+    "santhali_ol_chiki": "ᱪᱮᱫ ᱠᱟᱛᱷᱟ ᱠᱟᱱᱟ?",
+    "santhali_romanized": "Ched katha kana?",
+    "ipa_phonetics": "/tʃed ka.tʰa ka.na/",
+    "category": "question",
+    "audio_phonemes": "ched katha kana",
+    "grade_level": "Class 1"
+  },
+  {
+    "hindi_term": "पानी पियो",
+    "synonyms": [
+      "पानी पी लो",
+      "पानी पिएं",
+      "जल पियो",
+      "pani piyo",
+      "drink water"
+    ],
+    "santhali_devanagari": "दाः ञुय मे",
+    "santhali_ol_chiki": "ᱫᱟᱜ ᱧᱩᱭ ᱢᱮ",
+    "santhali_romanized": "Dah nyuy me",
+    "ipa_phonetics": "/daʔ ɲuj me/",
+    "category": "classroom_command",
+    "audio_phonemes": "dah nyuy me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "खाना खाओ",
+    "synonyms": [
+      "खाना खा लो",
+      "खाना खाइए",
+      "भोजन करो",
+      "khana khao",
+      "eat food"
+    ],
+    "santhali_devanagari": "दाका जोम मे",
+    "santhali_ol_chiki": "ᱫᱟᱠᱟ ᱡᱚᱢ ᱢᱮ",
+    "santhali_romanized": "Daka jom me",
+    "ipa_phonetics": "/da.ka dʒom me/",
+    "category": "classroom_command",
+    "audio_phonemes": "daka jom me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "हाथ धो लो",
+    "synonyms": [
+      "हाथ धोएं",
+      "हाथ धोना",
+      "hath dho lo",
+      "wash hands"
+    ],
+    "santhali_devanagari": "ती अ़रूब मे",
+    "santhali_ol_chiki": "ᱛᱤ ᱟᱹᱨᱩᱵ ᱢᱮ",
+    "santhali_romanized": "Ti arub me",
+    "ipa_phonetics": "/ti ə.rup̚ me/",
+    "category": "classroom_command",
+    "audio_phonemes": "ti arub me",
+    "grade_level": "Balvatika"
+  },
+  {
+    "hindi_term": "चित्र बनाओ",
+    "synonyms": [
+      "चित्र बनाइए",
+      "ड्राइंग बनाओ",
+      "chitra banao",
+      "draw picture"
+    ],
+    "santhali_devanagari": "चितार बेनाव मे",
+    "santhali_ol_chiki": "ᱪᱤᱛᱟᱹᱨ ᱵᱮᱱᱟᱣ ᱢᱮ",
+    "santhali_romanized": "Chitar benaw me",
+    "ipa_phonetics": "/tʃi.tar be.naw me/",
+    "category": "classroom_command",
+    "audio_phonemes": "chitar benaw me",
+    "grade_level": "Balvatika"
+  }
+]

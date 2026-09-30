@@ -1,0 +1,57 @@
+# ==========================================
+# BhashaSetu - SIH2026 Git Ignore
+# ==========================================
+
+# 1. Local Archives & Heavy Datasets (Excluded from Git)
+_local_archive_not_for_github/
+subjects/
+data/textbooks_pdf/*
+!data/textbooks_pdf/.gitkeep
+data/uploaded_media/*
+!data/uploaded_media/.gitkeep
+sample_ahsr101.pdf
+textbook_page.html
+
+# 2. Sensitive Credentials & Scraped Tokens
+cookies.txt
+*.env
+*.env.*
+*.pem
+*.key
+
+# 3. Node & Frontend Dependencies & Builds
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.vite/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 4. Python Bytecode, Caches & Environments
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*/.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# 5. Local Scratch & Backups
+backups/
+scratch/
+
+# 6. Database Temporary Files
+*.db-journal
+*.db-wal
+
+# 7. OS Metadata
+Thumbs.db
+ehthumbs.db
+.DS_Store

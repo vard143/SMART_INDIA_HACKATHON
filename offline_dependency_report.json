@@ -1,0 +1,14 @@
+{
+  "scan_timestamp": 1788950808,
+  "system_name": "BHASHASETU Offline Dependency Audit",
+  "total_files_scanned": 53,
+  "total_external_references": 0,
+  "zero_internet_ready": true,
+  "summary": {
+    "required_online_dependencies": 0,
+    "local_localhost_endpoints": 0,
+    "informational_metadata_urls": 0,
+    "cdn_references_to_replace": 0
+  },
+  "findings": []
+}

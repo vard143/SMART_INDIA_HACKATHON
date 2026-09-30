@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  body {
+    @apply bg-gov-50 text-gov-900 antialiased selection:bg-forest-100 selection:text-forest-900;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Accessibility focus visible rings */
+  :focus-visible {
+    @apply outline-none ring-2 ring-forest-700 ring-offset-2 ring-offset-white;
+  }
+}
+
+/* Custom UI Utilities */
+@layer utilities {
+  /* Voice recording pulse glow */
+  .voice-pulse {
+    box-shadow: 0 0 0 0 rgba(22, 101, 52, 0.7);
+    animation: voicePulse 1.5s infinite;
+  }
+
+  /* Shimmer effect for skeleton loading */
+  .skeleton-shimmer {
+    background: linear-gradient(90deg, #f1f5f9 0%, #e2e8f0 50%, #f1f5f9 100%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+}
+
+@keyframes voicePulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(22, 101, 52, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 16px rgba(22, 101, 52, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(22, 101, 52, 0);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* Hide scrollbars for clean tab containers */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Print Optimization for Worksheets & Official Report Cards */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  header, nav, footer, .no-print {
+    display: none !important;
+  }
+  .print-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
